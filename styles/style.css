@@ -1,0 +1,8 @@
+.image {
+    /* this is the class name that needs to be transitioned  */
+    view-transition-name: image-21;
+}
+
+@view-transition {
+    navigation: auto;
+}
